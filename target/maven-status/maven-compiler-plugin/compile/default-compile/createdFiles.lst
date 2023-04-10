@@ -1,0 +1,5 @@
+com\revature\model\QcModel.class
+com\revature\service\QcService.class
+com\revature\controller\QcController.class
+com\revature\QcDemoApplication.class
+com\revature\repo\QcRepo.class
